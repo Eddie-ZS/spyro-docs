@@ -18,7 +18,7 @@ hero:
       link: /guide/introduce
     - theme: alt
       text: GitHub 查看
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/xiaoyuan-zs/spyro-vue-admin
 
 features:
   - title: 技术栈

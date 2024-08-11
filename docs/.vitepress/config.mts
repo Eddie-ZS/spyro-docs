@@ -82,7 +82,7 @@ export default defineConfig({
 
     // 社交链接
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/xiaoyuan-zs" },
     ],
 
     //页脚
