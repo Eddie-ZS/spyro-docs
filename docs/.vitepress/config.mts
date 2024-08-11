@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/spyro-docs/',
   title: "Spyro Admin",
   description: "一款简单好用的中后台解决方案",
   // 标签页上的 ico
