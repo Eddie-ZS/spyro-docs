@@ -88,7 +88,7 @@ export default defineConfig({
     //页脚
     footer: {
       // 自动更新时间
-      copyright: `Copyright © 2019-${new Date().getFullYear()} present Evan You`,
+      copyright: `Copyright © 2019-${new Date().getFullYear()}`,
     },
   },
 });
