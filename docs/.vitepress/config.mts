@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Spyro Admin",
   description: "一款简单好用的中后台解决方案",
   // 标签页上的 ico
-  head: [["link", { rel: "icon", href: "/logo.svg" }]],
+  head: [["link", { rel: "icon", href: "/spyro-docs/logo.svg" }]],
   locales: {
     root: {
       label: "简体中文",
@@ -30,6 +30,14 @@ export default defineConfig({
           { text: "简介", link: "/guide/introduce" },
           { text: "快速上手", link: "/guide/" },
           { text: "配置", link: "/guide/configuration" },
+        ],
+      },
+      {
+        text: "链接",
+        items: [
+          { text: "在线预览", link: "https://xiaoyuan-zs.github.io/spyro-vue-admin" },
+          { text: "Github 仓库", link: "https://github.com/xiaoyuan-zs/spyro-vue-admin" },
+          { text: "Gitee 仓库", link: "https://gitee.com/shuxiaoluo/spyro-vue-admin" },
         ],
       },
     ],
