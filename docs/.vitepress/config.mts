@@ -2,9 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/spyro-docs/',
+  base: "/spyro-docs/",
   title: "Spyro Admin",
-  description: "一款简单好用的中后台解决方案",
+  description: "简单好用的中后台模板",
   // 标签页上的 ico
   head: [["link", { rel: "icon", href: "/spyro-docs/logo.svg" }]],
   locales: {
@@ -15,7 +15,7 @@ export default defineConfig({
     en: {
       label: "English",
       lang: "en",
-      // link: "/en/",
+      link: "/en/",
     },
   },
   themeConfig: {
@@ -35,9 +35,18 @@ export default defineConfig({
       {
         text: "链接",
         items: [
-          { text: "在线预览", link: "https://xiaoyuan-zs.github.io/spyro-vue-admin" },
-          { text: "Github 仓库", link: "https://github.com/xiaoyuan-zs/spyro-vue-admin" },
-          { text: "Gitee 仓库", link: "https://gitee.com/shuxiaoluo/spyro-vue-admin" },
+          {
+            text: "在线预览",
+            link: "https://xiaoyuan-zs.github.io/spyro-vue-admin",
+          },
+          {
+            text: "Github 仓库",
+            link: "https://github.com/xiaoyuan-zs/spyro-vue-admin",
+          },
+          {
+            text: "Gitee 仓库",
+            link: "https://gitee.com/shuxiaoluo/spyro-vue-admin",
+          },
         ],
       },
     ],
@@ -81,9 +90,7 @@ export default defineConfig({
     ],
 
     // 社交链接
-    socialLinks: [
-      { icon: "github", link: "https://github.com/xiaoyuan-zs" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/xiaoyuan-zs" }],
 
     //页脚
     footer: {
