@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   base: "/spyro-docs/",
   title: "Spyro Admin",
-  description: "简单好用的中后台模板",
+  description: "开箱即用的中后台模板",
   // 标签页上的 ico
   head: [["link", { rel: "icon", href: "/spyro-docs/logo.svg" }]],
   locales: {
@@ -95,7 +95,13 @@ export default defineConfig({
     //页脚
     footer: {
       // 自动更新时间
-      copyright: `Copyright © 2019-${new Date().getFullYear()}`,
+      copyright: `Copyright © 2024-${new Date().getFullYear()}`,
+    },
+  },
+  markdown: {
+    image: {
+      // 图片懒加载
+      lazyLoading: true,
     },
   },
 });

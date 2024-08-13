@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Spyro Admin"
-  text: "简单好用的中后台模板"
-  tagline: 基于 Vue3、TypeScript5、Vite5、Pinia、Unocss 开发
+  text: "开箱即用的中后台模板"
+  tagline: 基于 Vue3、TypeScript5、Vite5、Pinia、Unocss and ElementPlus 开发
   image:
     src: /logo.svg
     alt: Spyro Admin
