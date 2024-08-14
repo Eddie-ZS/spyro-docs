@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Spyro Admin"
   text: "Simple and Easy"
-  tagline: Developed based on Vue3, TypeScript5, Vite5, Pinia, Unocss and ElementPlus
+  tagline: Developed based on Vue3, TypeScript, Vite, Unocss and ElementPlus
   image:
     src: /logo.svg
     alt: Spyro Admin
@@ -23,7 +23,7 @@ hero:
 features:
   - title: Technology Stack
     icon: 🔥
-    details: Vue3, TypeScript5, Vite5, Pinia, Unocss and ElementPlus
+    details: Vue3, TypeScript, Vite, Pinia, Unocss and ElementPlus
   - title: Simple and Easy
     icon: 🌐
     details: The project code structure is clear, simple, easy to read, and adopts pnpm monorepo, easy to maintain
