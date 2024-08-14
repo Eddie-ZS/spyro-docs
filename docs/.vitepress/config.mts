@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/spyro-docs/",
-  title: "Spyro Admin",
+  title: "Spyro Vue Admin",
   description: "开箱即用的中后台模板",
   // 标签页上的 ico
   head: [["link", { rel: "icon", href: "/spyro-docs/logo.svg" }]],

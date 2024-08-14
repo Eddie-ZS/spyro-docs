@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "Spyro Admin"
+  name: "Spyro Vue Admin"
   text: "开箱即用的中后台模板"
   tagline: 基于 Vue3、TypeScript、Vite、Pinia、Unocss and ElementPlus 开发
   image:
     src: /logo.svg
-    alt: Spyro Admin
+    alt: Spyro Vue Admin
   actions:
     - theme: brand
       text: 开 始

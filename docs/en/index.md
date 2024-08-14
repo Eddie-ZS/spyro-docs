@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "Spyro Admin"
+  name: "Spyro Vue Admin"
   text: "Simple and Easy"
   tagline: Developed based on Vue3, TypeScript, Vite, Unocss and ElementPlus
   image:
     src: /logo.svg
-    alt: Spyro Admin
+    alt: Spyro Vue Admin
   actions:
     - theme: brand
       text: Start
