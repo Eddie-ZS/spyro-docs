@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/spyro-docs/",
-  title: "Spyro Vue Admin",
+  title: "Spyro Admin",
   description: "开箱即用的中后台模板",
   // 标签页上的 ico
   head: [["link", { rel: "icon", href: "/spyro-docs/logo.svg" }]],
@@ -27,7 +27,7 @@ export default defineConfig({
       {
         text: "指南",
         items: [
-          { text: "简介", link: "/guide/introduce" },
+          { text: "介绍", link: "/guide/introduce" },
           { text: "快速上手", link: "/guide/" },
           { text: "配置", link: "/guide/configuration" },
         ],
@@ -37,15 +37,15 @@ export default defineConfig({
         items: [
           {
             text: "在线预览",
-            link: "https://xiaoyuan-zs.github.io/spyro-vue-admin",
+            link: "https://xiaoyuan-zs.github.io/vue-spyro-admin",
           },
           {
             text: "Github 仓库",
-            link: "https://github.com/xiaoyuan-zs/spyro-vue-admin",
+            link: "https://github.com/xiaoyuan-zs/vue-spyro-admin",
           },
           {
             text: "Gitee 仓库",
-            link: "https://gitee.com/shuxiaoluo/spyro-vue-admin",
+            link: "https://gitee.com/xiaoyuan-zs/vue-spyro-admin",
           },
         ],
       },
@@ -82,7 +82,7 @@ export default defineConfig({
         // 分组标题
         text: "指南",
         items: [
-          { text: "简介", link: "/guide/introduce" },
+          { text: "介绍", link: "/guide/introduce" },
           { text: "快速上手", link: "/guide/" },
           { text: "配置", link: "/guide/configuration" },
         ],

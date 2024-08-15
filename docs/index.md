@@ -3,22 +3,22 @@
 layout: home
 
 hero:
-  name: "Spyro Vue Admin"
+  name: "Spyro Admin"
   text: "开箱即用的中后台模板"
   tagline: 基于 Vue3、TypeScript、Vite、Pinia、Unocss and ElementPlus 开发
   image:
     src: /logo.svg
-    alt: Spyro Vue Admin
+    alt:  Spyro Admin
   actions:
     - theme: brand
       text: 开 始
       link: /guide/
     - theme: alt
-      text: 简 介
+      text: 介 绍
       link: /guide/introduce
     - theme: alt
       text: GitHub 查看
-      link: https://github.com/xiaoyuan-zs/spyro-vue-admin
+      link: https://github.com/xiaoyuan-zs/vue-spyro-admin
 
 features:
   - title: 技术栈

@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "Spyro Vue Admin"
+  name: "Spyro Admin"
   text: "Simple and Easy"
   tagline: Developed based on Vue3, TypeScript, Vite, Unocss and ElementPlus
   image:
     src: /logo.svg
-    alt: Spyro Vue Admin
+    alt: Spyro Admin
   actions:
     - theme: brand
       text: Start
@@ -18,7 +18,7 @@ hero:
       link: /guide/introduce
     - theme: alt
       text: GitHub View
-      link: https://github.com/xiaoyuan-zs/spyro-vue-admin
+      link: https://github.com/xiaoyuan-zs/vue-spyro-admin
 
 features:
   - title: Technology Stack

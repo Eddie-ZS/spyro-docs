@@ -1,1 +1,6 @@
 @import './var.css';
+
+/* 去除 a 标签的下划线 */
+.vp-doc a {
+    text-decoration: none;
+}
