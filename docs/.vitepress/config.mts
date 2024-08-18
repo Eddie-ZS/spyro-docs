@@ -87,6 +87,13 @@ export default defineConfig({
           { text: "配置", link: "/guide/configuration" },
         ],
       },
+      {
+        // 分组标题
+        text: "路由配置",
+        items: [
+          { text: "介绍", link: "/guide/introduce" },
+        ],
+      },
     ],
 
     // 社交链接
