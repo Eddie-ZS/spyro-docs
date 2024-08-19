@@ -29,7 +29,7 @@ export default defineConfig({
         items: [
           { text: "介绍", link: "/guide/introduce" },
           { text: "快速上手", link: "/guide/" },
-          { text: "配置", link: "/guide/configuration" },
+          { text: "项目结构", link: "/guide/structure" },
         ],
       },
       {
@@ -84,15 +84,13 @@ export default defineConfig({
         items: [
           { text: "介绍", link: "/guide/introduce" },
           { text: "快速上手", link: "/guide/" },
-          { text: "配置", link: "/guide/configuration" },
+          { text: "项目结构", link: "/guide/structure" },
         ],
       },
       {
         // 分组标题
         text: "路由配置",
-        items: [
-          { text: "介绍", link: "/guide/introduce" },
-        ],
+        items: [{ text: "介绍", link: "/guide/introduce" }],
       },
     ],
 
