@@ -63,7 +63,7 @@ vue-spyro-admin 采用 Vue3.4、Vite5、TypeScript、Unocss 和 Element Plus 构
 * 本地开发推荐使用 Chrome 最新版浏览器
 * 生产环境支持现代浏览器，不在支持 IE 浏览器，更多浏览器可以查看: [Can I use ESM](https://caniuse.com/?search=ESModule)
 
-| <img src="https://gitee.com/xiaoyuan-zs/spyro-docs/raw/master/docs/public/Edge.svg" width="25" > | <img src="https://gitee.com/xiaoyuan-zs/spyro-docs/raw/master/docs/public/Chrome.svg" width="25" > | <img src="https://gitee.com/xiaoyuan-zs/spyro-docs/raw/master/docs/public/Firefox.svg" width="28" > | <img src="https://gitee.com/xiaoyuan-zs/spyro-docs/raw/master/docs/public/Safari.svg" width="25" > | <img src="https://gitee.com/xiaoyuan-zs/spyro-docs/raw/master/docs/public/IE.svg" width="35" > |
+| <img src="https://gitee.com/xiaoyuan-zs/spyro-docs/raw/master/docs/public/Edge.svg" width="25" > | <img src="https://gitee.com/xiaoyuan-zs/spyro-docs/raw/master/docs/public/chrome.svg" width="25" > | <img src="https://gitee.com/xiaoyuan-zs/spyro-docs/raw/master/docs/public/firefox.svg" width="28" > | <img src="https://gitee.com/xiaoyuan-zs/spyro-docs/raw/master/docs/public/Safari.svg" width="25" > | <img src="https://gitee.com/xiaoyuan-zs/spyro-docs/raw/master/docs/public/IE.svg" width="35" > |
 | ----------| :-----------: | -------: | -------: | -------: |
 | version >= 79 | version >= 61 | version >= 60    | version >= 11    | Not Support    |
 
